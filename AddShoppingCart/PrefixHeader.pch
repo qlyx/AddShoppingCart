@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  AddShoppingCart
+//
+//  Created by 主用户 on 16/4/13.
+//  Copyright © 2016年 江萧. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define ISintenet    @"www.baidu.com"
+#import "UITableView+SDAutoTableViewCellHeight.h"
+#import "UIView+SDAutoLayout.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
