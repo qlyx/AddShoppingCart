@@ -3,4 +3,5 @@
 
 
 
-请使用新版本：https://github.com/qlyx/ChoseGoodsType，有问题可加微信咨询
+请使用新版本：https://github.com/qlyx/ChoseGoodsType
+有问题可加微信咨询
